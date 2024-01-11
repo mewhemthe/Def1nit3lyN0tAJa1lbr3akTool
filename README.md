@@ -1,23 +1,21 @@
-# Def1nit3lyN0tAJa1lbr3akTool
+#jelbrkforio0-20pp
 
-An incomplete jailbreak tool for iOS 15.7 and iOS 16.5, iPhone X. I build it just for fun.
-
-It can not be done without kfd, kfund, Dopamine and jailbreak community.
+An incomplete jailbreak tool for iOS 0 and iOS 20.1.1 , iPhone 1 to 20. I build it just for fun. 
+ all jokes btw
 
 ## How to build
 
-- Run `TRUSTCACHEVERSION=1 make` in every subdirectory of `basebin/` if you are building for iOS 15.7, or run `TRUSTCACHEVERSION=2 make` if you are building for iOS 16.5. 
-- Compile the project with Xcode, you might need to download the bootstrap first.
+-get a windows device
+-squat down and make the most nasty poop on it and eat it
+-now you have jelbrk for ios 0 to 20.1.1 (20.1.2 AND UP WILL NEVER BE SUPPORTED NO PEE PEE BYPASS)
 
 ## Current status
 
 Tested on: 
 - iPhone X, iOS 16.5, iOS 16.3.1, iOS 16.0.2
-- iPhone 8, iOS 16.5, iOS 16.0
+- iPhone 8, iOS 16.5, iOS 16.
+- iphone 16 pro max, EVERY VERSION REL
+- WORKS ON ANDRIOD 1 to 21
 
 ## Known issues
-
-- Sideloading would break something, please build with Xcode or use Trollstore.
-- Userspace reboot is not supported now.
-- Probably won’t work for several iOS 16 versions such as iOS 16.0 to iOS 16.3.
-- Watchdog problem on iPhone 8
+⚠️⚠️⚠️⚠️⚠️ ALL JOKES PLEASE DO NNOT TRYP
